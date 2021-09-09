@@ -17,7 +17,7 @@ chmod 755 nmap_vuln_scan.sh
 ### Example
 
 ```
-./ nmap_vuln_scan.sh 
+./nmap_vuln_scan.sh 
 ```
 ### Warning
 
