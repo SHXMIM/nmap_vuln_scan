@@ -41,4 +41,4 @@ THis tool may needs root premssion for some operations
 [*] Finding service version scan
 ```
 ### Screenshort
-![img].(https://drive.google.com/file/d/1soX_L88DMnVbY2NHZC2SbvT-UsjhC1lx/view?usp=sharing)
+![img](https://drive.google.com/file/d/1soX_L88DMnVbY2NHZC2SbvT-UsjhC1lx/view?usp=sharing)
