@@ -41,5 +41,6 @@ THis tool may needs root premssion for some operations
 [*] Finding service version scan
 ```
 ### Screenshort
-![img](file:///home/shxim/Downloads/IMG-20200507-WA0014.jpg![image](https://user-images.githubusercontent.com/89806110/132738215-b80169f4-046f-4d22-bf83-4f43b10b4c69.png)
+![img](file:///home/shxim/Downloads/IMG_1693.PNG![image](https://user-images.githubusercontent.com/89806110/132739492-f4b05434-22bd-44a3-a3ef-816293a15a0c.png)
+
 
