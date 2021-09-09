@@ -12,12 +12,12 @@ cd nmap_vuln_scan
 chmod 755 nmap_vuln_scan.sh
 ```
 ```
-./nmap_vuln_scan
+./nmap_vuln_scan.sh
 ``` 
 ### Example
 
 ```
-./Domain-records-tester.sh  example.com
+./ nmap_vuln_scan.sh 
 ```
 ### Warning
 
