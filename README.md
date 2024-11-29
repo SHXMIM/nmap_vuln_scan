@@ -35,7 +35,7 @@ sudo apt install nmap arp-scan
 ```
 ### Clone the repository
 ```
-git clone https://github.com/SHXMIM/ReconXplorer.git
+git clone https://github.com/shameemkabeer/ReconXplorer.git
 ```
 ### Navigate to the directory
 ```
